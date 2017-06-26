@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<WorkTypeDefs>
+
+  <WorkTypeDef>
+    <defName>Brewing</defName>
+    <labelShort>Brew</labelShort>
+    <pawnLabel>Brewer</pawnLabel>
+    <gerundLabel>Brewing</gerundLabel>
+    <description>Brew beer.</description>
+    <verb>Brew</verb>
+    <naturalPriority>990</naturalPriority>
+    <alwaysStartActive>false</alwaysStartActive>
+    <requireCapableColonist>true</requireCapableColonist>
+    <relevantSkills>
+      <li>Cooking</li>
+    </relevantSkills>
+  </WorkTypeDef>
+  
+</WorkTypeDefs>

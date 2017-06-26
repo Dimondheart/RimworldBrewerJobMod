@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+	<Operation Class="PatchOperationReplace">
+	  <xpath>*/WorkGiverDef[defName = "DoBillsBrew"]/workType</xpath>
+	  <value>
+		<workType>Brewing</workType>
+	  </value>
+	</Operation>
+	<Operation Class="PatchOperationReplace">
+	  <xpath>*/WorkGiverDef[defName = "TakeBeerOutOfFermentingBarrel"]/workType</xpath>
+	  <value>
+		<workType>Brewing</workType>
+	  </value>
+	</Operation>
+	<Operation Class="PatchOperationReplace">
+	  <xpath>*/WorkGiverDef[defName = "FillFermentingBarrel"]/workType</xpath>
+	  <value>
+		<workType>Brewing</workType>
+	  </value>
+	</Operation>
+</Patch>
