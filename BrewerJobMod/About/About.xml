@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-  <name>Brewer Job Mod</name>
+  <name>[A17] Brewer Job Mod</name>
   <author>Bryan Bettis</author>
   <description>This mod moves all of the tasks relating to brewing into a single job. Brewing is right after cooking priority-wise.</description>
   <targetVersion>0.17.1557</targetVersion>
