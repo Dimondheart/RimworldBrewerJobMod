@@ -6,16 +6,4 @@
 		<workType>Brewing</workType>
 	  </value>
 	</Operation>
-	<Operation Class="PatchOperationReplace">
-	  <xpath>*/WorkGiverDef[defName = "TakeBeerOutOfFermentingBarrel"]/workType</xpath>
-	  <value>
-		<workType>Brewing</workType>
-	  </value>
-	</Operation>
-	<Operation Class="PatchOperationReplace">
-	  <xpath>*/WorkGiverDef[defName = "FillFermentingBarrel"]/workType</xpath>
-	  <value>
-		<workType>Brewing</workType>
-	  </value>
-	</Operation>
 </Patch>

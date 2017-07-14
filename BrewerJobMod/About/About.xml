@@ -2,6 +2,6 @@
 <ModMetaData>
   <name>[A17] Brewer Job Mod</name>
   <author>Bryan Bettis</author>
-  <description>This mod moves all of the tasks relating to brewing into a single job. Brewing is right after cooking priority-wise.</description>
+  <description>This mod moves all of the tasks relating to brewing into a single job. Brewing is right after cooking priority-wise. Pawns with hauling enabled can still fill/empty barrels as needed.</description>
   <targetVersion>0.17.1557</targetVersion>
 </ModMetaData>
